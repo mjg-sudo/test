@@ -1,0 +1,10 @@
+﻿  02-二叉树的 深度.cpp
+C:\新建文件夹\Project20\Project1\02-二叉树的 深度.cpp(58,1): error C2664: “void BinaryTree<char>::create_BinaryTree(BinaryTree<char> *&)”: 无法将参数 1 从“BinaryNode<T> *”转换为“BinaryTree<char> *&”
+          with
+          [
+              T=char
+          ]
+C:\新建文件夹\Project20\Project1\02-二叉树的 深度.cpp(65,7): message : 参见“BinaryTree<char>::create_BinaryTree”的声明
+C:\新建文件夹\Project20\Project1\02-二叉树的 深度.cpp(55): message : 在编译 类 模板 成员函数“BinaryTree<char>::BinaryTree(void)”时
+C:\新建文件夹\Project20\Project1\02-二叉树的 深度.cpp(94): message : 查看对正在编译的函数 模板 实例化“BinaryTree<char>::BinaryTree(void)”的引用
+C:\新建文件夹\Project20\Project1\02-二叉树的 深度.cpp(94): message : 查看对正在编译的 类 模板 实例化“BinaryTree<char>”的引用

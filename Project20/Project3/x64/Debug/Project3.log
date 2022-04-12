@@ -1,0 +1,7 @@
+﻿  02-二叉树的深度.cpp
+C:\新建文件夹\Project20\Project3\02-二叉树的深度.cpp(103,54): error C2664: “void binaryTree<char>::create_binaryTree(binaryNode<T> *&)”: 无法将参数 1 从“binaryNode<T> *”转换为“binaryNode<T> *&”
+          with
+          [
+              T=char
+          ]
+C:\新建文件夹\Project20\Project3\02-二叉树的深度.cpp(64,7): message : 参见“binaryTree<char>::create_binaryTree”的声明
